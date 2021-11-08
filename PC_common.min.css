@@ -1844,7 +1844,7 @@ body {
     height: 100%;
     left: 0;
     top: -50%;
-    background: rgba(0, 0, 0, 0.6) url("logo-s.png") no-repeat center center;
+    background: rgba(0, 0, 0, 0.6) url("/logo-s.png") no-repeat center center;
     text-align: center;
     background-size: 0%;
     padding-top: 57.87%;
@@ -1902,7 +1902,7 @@ body {
 .right-content .video-content.art-content {
     text-align: justify;
     /*background: url('https://qidian.gtimg.com/qdm/img/skin-default.e5975.jpg');*/
-    background: url('../images/skin-default.e5975.jpg');
+    background: url('skin-default.e5975.jpg');
     line-height: 2.6rem;
     font-size: 1.2rem;
     padding: 0 1rem;
@@ -2247,7 +2247,7 @@ footer.w1200 .f-right .f12 {
     content: "\e605";
 }
 .icon-shipin.icon-video-two:before{
-    background: url('../images/fl_icon2.png');
+    background: url('fl_icon2.png');
     content: '';
     background-size: 100%;
     position: absolute;
@@ -2257,7 +2257,7 @@ footer.w1200 .f-right .f12 {
     bottom: 20px;
 }
 .icon-shipin.icon-video-three:before{
-    background: url('../images/fl_icon3.png');
+    background: url('fl_icon3.png');
     content: '';
     background-size: 100%;
     position: absolute;
@@ -2267,7 +2267,7 @@ footer.w1200 .f-right .f12 {
     bottom: 20px;
 }
 .icon-shipin.icon-video-four:before{
-    background: url('../images/fl_icon4.png');
+    background: url('fl_icon4.png');
     content: '';
     background-size: 100%;
     position: absolute;
@@ -2277,7 +2277,7 @@ footer.w1200 .f-right .f12 {
     bottom: 20px;
 }
 .icon-shipin.icon-video-five:before{
-    background: url('../images/fl_icon5.png');
+    background: url('fl_icon5.png');
     content: '';
     background-size: 100%;
     position: absolute;
@@ -2287,7 +2287,7 @@ footer.w1200 .f-right .f12 {
     bottom: 20px;
 }
 .icon-shipin.icon-video-six:before{
-    background: url('../images/fl_icon6.png');
+    background: url('fl_icon6.png');
     content: '';
     background-size: 100%;
     position: absolute;
@@ -2297,7 +2297,7 @@ footer.w1200 .f-right .f12 {
     bottom: 20px;
 }
 .icon-shipin.icon-video-seven:before{
-    background: url('../images/fl_icon7.png');
+    background: url('fl_icon7.png');
     content: '';
     background-size: 100%;
     position: absolute;
